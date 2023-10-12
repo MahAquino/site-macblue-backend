@@ -2,7 +2,7 @@ ATIVIDADE GITHUB
 
 Atividade BACKEND 
 correção secundaria 
-
+Texto digitado por fausto
 continuação
-
+Outro texto digitado por fausto
 finalização da atividade
